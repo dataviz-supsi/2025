@@ -10,6 +10,9 @@ function load_menu(){
         },
         {
             "link": "2024"
+        },
+        {
+            "link": "2025"
         }
     ]
 
